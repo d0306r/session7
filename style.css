@@ -1,0 +1,22 @@
+body {
+    margin:0;
+  }
+  h1 {
+    font-size: 46px;
+    text-align:center;
+    border-bottom:1px solid gray;
+    font-family: 'Do Hyeon', sans-serif;
+  }
+  .neckkick {
+  text-align:center;
+  font-size: 20px;
+  border-bottom:1px solid gray;
+  color :black ;
+  font-family: 'Nanum Myeongjo', serif;
+  }
+  .contents {
+  text-align:center;
+  font-size: 20px;
+  background-color: white;
+  font-family: 'Nanum Myeongjo', serif;
+  }
